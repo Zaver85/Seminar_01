@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexey\\Desktop\\Seminar_01\\Task1\\Task1.csproj": {}
+    "C:\\Users\\Alexey\\Desktop\\Seminar_01\\Task12\\Task12.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexey\\Desktop\\Seminar_01\\Task1\\Task1.csproj": {
+    "C:\\Users\\Alexey\\Desktop\\Seminar_01\\Task12\\Task12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexey\\Desktop\\Seminar_01\\Task1\\Task1.csproj",
-        "projectName": "Task1",
-        "projectPath": "C:\\Users\\Alexey\\Desktop\\Seminar_01\\Task1\\Task1.csproj",
+        "projectUniqueName": "C:\\Users\\Alexey\\Desktop\\Seminar_01\\Task12\\Task12.csproj",
+        "projectName": "Task12",
+        "projectPath": "C:\\Users\\Alexey\\Desktop\\Seminar_01\\Task12\\Task12.csproj",
         "packagesPath": "C:\\Users\\Alexey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexey\\Desktop\\Seminar_01\\Task1\\obj\\",
+        "outputPath": "C:\\Users\\Alexey\\Desktop\\Seminar_01\\Task12\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexey\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Users\Alexey\Desktop\Seminar_01\Task9\bin\Debug\net8.0\Task9.exe
+C:\Users\Alexey\Desktop\Seminar_01\Task9\bin\Debug\net8.0\Task9.deps.json
+C:\Users\Alexey\Desktop\Seminar_01\Task9\bin\Debug\net8.0\Task9.runtimeconfig.json
+C:\Users\Alexey\Desktop\Seminar_01\Task9\bin\Debug\net8.0\Task9.dll
+C:\Users\Alexey\Desktop\Seminar_01\Task9\bin\Debug\net8.0\Task9.pdb
+C:\Users\Alexey\Desktop\Seminar_01\Task9\obj\Debug\net8.0\Task9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey\Desktop\Seminar_01\Task9\obj\Debug\net8.0\Task9.AssemblyInfoInputs.cache
+C:\Users\Alexey\Desktop\Seminar_01\Task9\obj\Debug\net8.0\Task9.AssemblyInfo.cs
+C:\Users\Alexey\Desktop\Seminar_01\Task9\obj\Debug\net8.0\Task9.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Desktop\Seminar_01\Task9\obj\Debug\net8.0\Task9.sourcelink.json
+C:\Users\Alexey\Desktop\Seminar_01\Task9\obj\Debug\net8.0\Task9.dll
+C:\Users\Alexey\Desktop\Seminar_01\Task9\obj\Debug\net8.0\refint\Task9.dll
+C:\Users\Alexey\Desktop\Seminar_01\Task9\obj\Debug\net8.0\Task9.pdb
+C:\Users\Alexey\Desktop\Seminar_01\Task9\obj\Debug\net8.0\Task9.genruntimeconfig.cache
+C:\Users\Alexey\Desktop\Seminar_01\Task9\obj\Debug\net8.0\ref\Task9.dll
