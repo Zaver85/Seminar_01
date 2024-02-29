@@ -13,3 +13,17 @@ C:\Users\Алексей\Desktop\Seminar_01\Task1\obj\Debug\net8.0\refint\Task1.d
 C:\Users\Алексей\Desktop\Seminar_01\Task1\obj\Debug\net8.0\Task1.pdb
 C:\Users\Алексей\Desktop\Seminar_01\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
 C:\Users\Алексей\Desktop\Seminar_01\Task1\obj\Debug\net8.0\ref\Task1.dll
+c:\Users\Alexey\Desktop\Seminar_01\Task1\bin\Debug\net8.0\Task1.exe
+c:\Users\Alexey\Desktop\Seminar_01\Task1\bin\Debug\net8.0\Task1.deps.json
+c:\Users\Alexey\Desktop\Seminar_01\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+c:\Users\Alexey\Desktop\Seminar_01\Task1\bin\Debug\net8.0\Task1.dll
+c:\Users\Alexey\Desktop\Seminar_01\Task1\bin\Debug\net8.0\Task1.pdb
+c:\Users\Alexey\Desktop\Seminar_01\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alexey\Desktop\Seminar_01\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+c:\Users\Alexey\Desktop\Seminar_01\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+c:\Users\Alexey\Desktop\Seminar_01\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+c:\Users\Alexey\Desktop\Seminar_01\Task1\obj\Debug\net8.0\Task1.dll
+c:\Users\Alexey\Desktop\Seminar_01\Task1\obj\Debug\net8.0\refint\Task1.dll
+c:\Users\Alexey\Desktop\Seminar_01\Task1\obj\Debug\net8.0\Task1.pdb
+c:\Users\Alexey\Desktop\Seminar_01\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+c:\Users\Alexey\Desktop\Seminar_01\Task1\obj\Debug\net8.0\ref\Task1.dll

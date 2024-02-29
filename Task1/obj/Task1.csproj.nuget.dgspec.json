@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexey\\Desktop\\Seminar_01\\Task1\\Task1.csproj": {}
+    "c:\\Users\\Alexey\\Desktop\\Seminar_01\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexey\\Desktop\\Seminar_01\\Task1\\Task1.csproj": {
+    "c:\\Users\\Alexey\\Desktop\\Seminar_01\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexey\\Desktop\\Seminar_01\\Task1\\Task1.csproj",
+        "projectUniqueName": "c:\\Users\\Alexey\\Desktop\\Seminar_01\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "C:\\Users\\Alexey\\Desktop\\Seminar_01\\Task1\\Task1.csproj",
+        "projectPath": "c:\\Users\\Alexey\\Desktop\\Seminar_01\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\Alexey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexey\\Desktop\\Seminar_01\\Task1\\obj\\",
+        "outputPath": "c:\\Users\\Alexey\\Desktop\\Seminar_01\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexey\\AppData\\Roaming\\NuGet\\NuGet.Config"
