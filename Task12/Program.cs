@@ -1,26 +1,30 @@
-﻿//  Дано натуральное трёхзначное число. Создайте массив, состоящий из 
-// цифр этого числа. Младший разряд числа должен располагаться на 0-
-// м индексе массива, старший – на 2-м. 
-// Пример
-// 456 => [6 5 4]
-//781 => [1 8 7]
+﻿using System;
+using System.Text;
 
-void Print_mas(int[] col)
+class Program
 {
-  foreach (var item in col)
-  {
-    Console.Write($"{item} ");
-  }
-  Console.WriteLine();
-}
+    static void Main(string[] args)
+    {
+        // Ввод строки с клавиатуры
+        Console.WriteLine("Введите строку, состоящую из слов, разделенных пробелами:");
+        string inputString = Console.ReadLine();
 
-int n = new Random().Next(100, 1000);
-Console.WriteLine(n);
+        // Разделение строки на слова
+        string[] words = inputString.Split(' ');
 
-int[] mas = new int[3];
-for (int i = 0; i < mas.Lenght; i++)
-{
-  mas[i] = n % 10;
-  n /= 10;
+        // Создание новой строки с обратным порядком слов
+        StringBuilder reversedStringBuilder = new StringBuilder();
+        for (int i = words.Length - 1; i >= 0; i--)
+        {
+            reversedStringBuilder.Append(words[i]);
+            if (i > 0)
+            {
+                reversedStringBuilder.Append(" ");
+            }
+        }
+
+        // Вывод результата
+        Console.WriteLine("Строка с обратным порядком слов:");
+        Console.WriteLine(reversedStringBuilder.ToString());
+    }
 }
-Print_mas(mas);

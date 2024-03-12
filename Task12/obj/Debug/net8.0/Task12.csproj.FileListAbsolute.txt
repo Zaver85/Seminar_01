@@ -1,0 +1,15 @@
+C:\Users\Alexey\Desktop\Seminar_01\Task12\bin\Debug\net8.0\Task12.exe
+C:\Users\Alexey\Desktop\Seminar_01\Task12\bin\Debug\net8.0\Task12.deps.json
+C:\Users\Alexey\Desktop\Seminar_01\Task12\bin\Debug\net8.0\Task12.runtimeconfig.json
+C:\Users\Alexey\Desktop\Seminar_01\Task12\bin\Debug\net8.0\Task12.dll
+C:\Users\Alexey\Desktop\Seminar_01\Task12\bin\Debug\net8.0\Task12.pdb
+C:\Users\Alexey\Desktop\Seminar_01\Task12\obj\Debug\net8.0\Task12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey\Desktop\Seminar_01\Task12\obj\Debug\net8.0\Task12.AssemblyInfoInputs.cache
+C:\Users\Alexey\Desktop\Seminar_01\Task12\obj\Debug\net8.0\Task12.AssemblyInfo.cs
+C:\Users\Alexey\Desktop\Seminar_01\Task12\obj\Debug\net8.0\Task12.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Desktop\Seminar_01\Task12\obj\Debug\net8.0\Task12.sourcelink.json
+C:\Users\Alexey\Desktop\Seminar_01\Task12\obj\Debug\net8.0\Task12.dll
+C:\Users\Alexey\Desktop\Seminar_01\Task12\obj\Debug\net8.0\refint\Task12.dll
+C:\Users\Alexey\Desktop\Seminar_01\Task12\obj\Debug\net8.0\Task12.pdb
+C:\Users\Alexey\Desktop\Seminar_01\Task12\obj\Debug\net8.0\Task12.genruntimeconfig.cache
+C:\Users\Alexey\Desktop\Seminar_01\Task12\obj\Debug\net8.0\ref\Task12.dll
